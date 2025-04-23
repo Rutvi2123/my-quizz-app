@@ -1,0 +1,13 @@
+{
+  "resourceName": "MyAppMediaStorage",
+  "policyUUID": "16a290ba",
+  "bucketName": "notes-app-storage",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
