@@ -45,6 +45,17 @@
       "service": "Cognito"
     }
   },
+  "hosting": {
+    "S3AndCloudFront": {
+      "providerPlugin": "awscloudformation",
+      "service": "S3AndCloudFront"
+    },
+    "amplifyhosting": {
+      "lastPushTimeStamp": "2025-04-23T17:23:19.713Z",
+      "service": "amplifyhosting",
+      "type": "cicd"
+    }
+  },
   "storage": {
     "MyAppMediaStorage": {
       "dependsOn": [],

@@ -20,6 +20,12 @@
       },
       "storage": {
         "MyAppMediaStorage": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d26kcsbk4tygs7",
+          "type": "cicd"
+        }
       }
     }
   }
